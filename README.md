@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi there 👋, I'm Sarthak
 
-<!--
-**SarthakPatkar2006/SarthakPatkar2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Artificial Intelligence (CSE-AI) student
+💻 Focused on Problem Solving, MERN Stack & Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔍 Practicing **Data Structures & Algorithms (DSA)**
+* 🌐 Building projects using **MERN Stack (MongoDB, Express, React, Node.js)**
+* 🤖 Exploring **Machine Learning concepts**
+* ⚙️ Interested in **Backend Development & Scalable Systems**
+* 📈 Consistently improving coding and problem-solving skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**
+
+* C++
+* Java
+* JavaScript
+* SQL
+
+**Web Development:**
+
+* HTML, CSS, JavaScript
+* React.js
+* Node.js
+* Express.js
+
+**Database:**
+
+* MongoDB
+* MySQL
+
+**Tools & Platforms:**
+
+* Git & GitHub
+* VS Code
+* Firebase
+
+---
+
+## 📌 Current Focus
+
+* Solving DSA problems daily
+* Building MERN stack projects
+* Learning Machine Learning
+* Improving backend development
+
+---
+
+
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/sarthak-patkar-2b1150378/
+* GitHub: https://github.com/SarthakPatkar2006
+* PortFolio:https://port-folio-six-eosin.vercel.app/
+
+---
+
+⭐ *Consistency beats talent when talent doesn’t work hard.*
