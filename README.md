@@ -7,7 +7,6 @@
 
 ## 🚀 About Me
 
-* 🔍 Practicing **Data Structures & Algorithms (DSA)**
 * 🌐 Building projects using **MERN Stack (MongoDB, Express, React, Node.js)**
 * 🤖 Exploring **Machine Learning concepts**
 * ⚙️ Interested in **Backend Development & Scalable Systems**
@@ -19,10 +18,12 @@
 
 **Languages:**
 
+* c
 * C++
 * Java
 * JavaScript
 * SQL
+* Python
 
 **Web Development:**
 
@@ -40,13 +41,12 @@
 
 * Git & GitHub
 * VS Code
-* Firebase
+
 
 ---
 
 ## 📌 Current Focus
 
-* Solving DSA problems daily
 * Building MERN stack projects
 * Learning Machine Learning
 * Improving backend development
@@ -65,4 +65,3 @@
 
 ---
 
-⭐ *Consistency beats talent when talent doesn’t work hard.*
