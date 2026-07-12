@@ -6,31 +6,31 @@ Computer Science & Artificial Intelligence Student • Full Stack Developer • 
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 Computer Science & Artificial Intelligence (CSE-AI) Student
 
 💻 Passionate about building scalable web applications and machine learning solutions.
 
-- 🌱 Currently working on AI/ML and Full Stack projects
-- 🤖 Interested in Machine Learning, Backend Development, and Time Series Forecasting
+- 🌱 Currently exploring Artificial Intelligence & Machine Learning
+- ⚙️ Interested in Backend Development and Scalable Systems
 - 💡 Enjoy solving challenging algorithmic problems and building real-world applications
 - 🚀 Always learning new technologies and improving software engineering skills
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
 ### Backend
@@ -39,19 +39,20 @@ Computer Science & Artificial Intelligence Student • Full Stack Developer • 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-### Databases
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Machine Learning
+### AI / Machine Learning
 
 - Scikit-learn
 - XGBoost
 - Pandas
 - NumPy
 - MLflow
+- Streamlit
 
 ### Tools
 
@@ -61,63 +62,7 @@ Computer Science & Artificial Intelligence Student • Full Stack Developer • 
 
 ---
 
-# 🚀 Featured Projects
-
-## 📈 ForecastIQ
-
-**Multi-Product Demand Forecasting & Inventory Optimization Engine**
-
-- Demand forecasting using XGBoost
-- Feature Engineering & Time Series Pipeline
-- Walk-forward Validation
-- Inventory Recommendation Engine
-- FastAPI Backend
-- Streamlit Dashboard
-
----
-
-## 🌍 TripMitra
-
-**AI-powered MERN Travel Planning Platform**
-
-- AI itinerary generation
-- Budget-aware trip planning
-- Group trip management
-- Expense tracking
-- Smart travel recommendations
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthakPatkar2006&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakPatkar2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarthakPatkar2006&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-- 🤖 Machine Learning
-- 📊 Time Series Forecasting
-- 🌐 Full Stack Development
-- ⚙️ Backend Engineering
-- ☁️ REST API Development
-- 🧠 System Design
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -138,7 +83,5 @@ Computer Science & Artificial Intelligence Student • Full Stack Developer • 
 ---
 
 <p align="center">
-
-### 💡 Building scalable software, solving challenging problems, and applying AI to real-world applications.
-
+<b>Building scalable software, solving challenging problems, and applying AI to real-world applications.</b>
 </p>
