@@ -16,7 +16,7 @@
 
 ## 👋 About
 
-I'm a third-year **Computer Science & Artificial Intelligence** student at **Vishwakarma Institute of Technology, Pune**, building full-stack and AI-powered products while sharpening my problem-solving through competitive programming.
+I'm **Sarthak Patkar**, a third-year **Computer Science & Artificial Intelligence** student at **Vishwakarma Institute of Technology, Pune**, building full-stack and AI-powered products while sharpening my problem-solving through competitive programming.
 
 ```yaml
 focus:      [Full Stack (MERN), Machine Learning, Agentic AI, Competitive Programming]
