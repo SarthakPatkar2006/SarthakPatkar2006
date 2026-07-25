@@ -2,16 +2,39 @@
 
 # Hi 👋, I'm Sarthak Patkar
 
-### Computer Science & Artificial Intelligence Student • Full Stack Developer • AI/ML Enthusiast
+### Computer Science & Artificial Intelligence Student • Full Stack Developer • AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1200&center=true&vCenter=true&width=720&lines=Building+Real-World+Software;Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Developer;Competitive+Programmer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
 
-<p>
-  <a href="https://github.com/SarthakPatkar2006">
-    <img src="https://img.shields.io/github/followers/SarthakPatkar2006?style=for-the-badge&logo=github&label=Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SarthakPatkar2006&style=for-the-badge&color=blue" />
-</p>
+<br>
+
+> *Building scalable full-stack applications and AI-powered systems with a focus on backend engineering and practical machine learning.*
+
+<br>
+
+<a href="https://github.com/SarthakPatkar2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sarthak-patkar-2b1150378/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sarthakpatkar047@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/fXvj5Zv0Il/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/sarthakpatkar047">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts,react,nodejs,express,fastapi,mongodb,mysql,tensorflow,pytorch,git,github,vscode,postman&perline=8"/>
 
 </div>
 
@@ -21,89 +44,29 @@
 
 I'm **Sarthak Patkar**, a Third-Year **Computer Science & Artificial Intelligence** student at **Vishwakarma Institute of Technology, Pune**.
 
-I enjoy building scalable backend systems, full-stack web applications, and AI-powered products that solve real-world problems. Alongside development, I actively practice competitive programming to strengthen my algorithmic thinking and problem-solving skills.
+I enjoy designing scalable backend systems, building end-to-end web applications, and applying Artificial Intelligence to solve practical problems. I continuously improve my software engineering skills through hands-on projects and competitive programming.
 
-- 🔭 Building **TripMitra** and AI-powered full-stack applications
+### 🔭 Currently
+
+- 🚀 Building **TripMitra**, an AI-powered travel planning platform
 - 🌱 Learning **TensorFlow**, **PyTorch**, **Deep Learning**, and **Transformer Architectures**
 - 🤖 Working with **Scikit-learn**, **XGBoost**, **NumPy**, **Pandas**, **OpenCV**, and **FastAPI**
-- 💻 Interested in Full Stack Devlopement , Machine Learning, Deep Learning 
-- 🎯 Goal: Build production-ready AI systems with scalable backend architectures
+- 💡 Interested in **Full Stack Development**, **Backend Engineering**, **Machine Learning**, and **System Design**
+- 🎯 Working towards building production-ready AI-powered software
 
 ---
 
 # 🛠 Tech Stack
 
-<table>
-
-<tr>
-<th width="220">Category</th>
-<th>Technologies</th>
-</tr>
-
-<tr>
-<td><b>Programming Languages</b></td>
-<td>
-
-C++ • Python • C • JavaScript • TypeScript • SQL
-
-</td>
-</tr>
-
-<tr>
-<td><b>Frontend</b></td>
-<td>
-
-React • HTML5 • CSS3
-
-</td>
-</tr>
-
-<tr>
-<td><b>Backend</b></td>
-<td>
-
-Node.js • Express.js • FastAPI • REST APIs • Microservices
-
-</td>
-</tr>
-
-<tr>
-<td><b>Databases</b></td>
-<td>
-
-MongoDB • MySQL
-
-</td>
-</tr>
-
-<tr>
-<td><b>Machine Learning & AI</b></td>
-<td>
-
-TensorFlow • PyTorch • Scikit-learn • XGBoost • NumPy • Pandas • OpenCV
-
-</td>
-</tr>
-
-<tr>
-<td><b>Developer Tools</b></td>
-<td>
-
-Git • GitHub • VS Code • Postman
-
-</td>
-</tr>
-
-<tr>
-<td><b>Core CS</b></td>
-<td>
-
-Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Operating Systems • Computer Networks
-
-</td>
-</tr>
-
-</table>
+| Category | Technologies |
+|-----------|--------------|
+| 💻 **Programming Languages** | C++, Python, C, JavaScript, TypeScript, SQL |
+| 🎨 **Frontend** | React, HTML5, CSS3 |
+| ⚙️ **Backend** | Node.js, Express.js, FastAPI, REST APIs, Microservices |
+| 🗄️ **Databases** | MongoDB, MySQL |
+| 🤖 **Machine Learning & AI** | TensorFlow, PyTorch, Scikit-learn, XGBoost, NumPy, Pandas, OpenCV |
+| 🧠 **Core Computer Science** | Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks |
+| 🛠 **Developer Tools** | Git, GitHub, VS Code, Postman |
 
 ---
 
@@ -117,11 +80,16 @@ Data Structures & Algorithms • Object-Oriented Programming • Database Manage
 
 ## 🌍 TripMitra
 
-AI-powered travel planning platform featuring intelligent itinerary generation, route optimization, budget-aware recommendations, and collaborative trip management.
+AI-powered travel planning platform that generates personalized itineraries using intelligent route optimization, budget-aware planning, and collaborative trip management.
 
-**Tech Stack**
+### Tech Stack
 
-`React` `Node.js` `Express.js` `FastAPI` `MongoDB` `Gemini API`
+`React`
+`Node.js`
+`Express.js`
+`FastAPI`
+`MongoDB`
+`Gemini API`
 
 </td>
 
@@ -129,11 +97,15 @@ AI-powered travel planning platform featuring intelligent itinerary generation, 
 
 ## 📈 ForecastIQ
 
-Demand forecasting and inventory optimization engine using feature engineering and machine learning for multi-product forecasting.
+Multi-product demand forecasting and inventory optimization engine using feature engineering and machine learning pipelines.
 
-**Tech Stack**
+### Tech Stack
 
-`Python` `XGBoost` `Scikit-learn` `Pandas` `NumPy`
+`Python`
+`Scikit-learn`
+`XGBoost`
+`NumPy`
+`Pandas`
 
 </td>
 
@@ -145,11 +117,14 @@ Demand forecasting and inventory optimization engine using feature engineering a
 
 ## 🛡️ Phishing Detection Platform
 
-Machine learning powered phishing URL detection platform with FastAPI backend, React dashboard, and experiment tracking.
+Machine learning-based phishing URL detection platform featuring a FastAPI backend, React dashboard, and prediction APIs.
 
-**Tech Stack**
+### Tech Stack
 
-`Python` `FastAPI` `React` `Scikit-learn`
+`Python`
+`FastAPI`
+`React`
+`Scikit-learn`
 
 </td>
 
@@ -158,16 +133,50 @@ Machine learning powered phishing URL detection platform with FastAPI backend, R
 </table>
 
 ---
+# 🏆 Highlights
 
-# 🏆 Achievements
+<table>
+<tr>
+<td>
 
-- ⭐ **LeetCode Rating:** **1750+**
-- 🏅 **2 Patents Filed** in IoT & Automation
-- 🎓 B.Tech Computer Science & Artificial Intelligence, VIT Pune
+### 🎓 Education
+**B.Tech — Computer Science & Artificial Intelligence**  
+Vishwakarma Institute of Technology, Pune
+
+</td>
+
+<td>
+
+### ⭐ Competitive Programming
+**LeetCode Rating:** **1750+**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🏅 Innovation
+**2 Patents Filed**  
+IoT & Automation
+
+</td>
+
+<td>
+
+### 🎯 Interests
+Full Stack Development  
+Machine Learning  
+Deep Learning  
+Backend Engineering
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📌 Current Focus
+# 🎯 Current Focus
 
 ```text
 🚀 Building
@@ -190,19 +199,17 @@ Machine learning powered phishing URL detection platform with FastAPI backend, R
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SarthakPatkar2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SarthakPatkar2006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=SarthakPatkar2006&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=SarthakPatkar2006&theme=github-dark&hide_border=true"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakPatkar2006&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakPatkar2006&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -212,7 +219,7 @@ Machine learning powered phishing URL detection platform with FastAPI backend, R
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakPatkar2006&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakPatkar2006&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -220,9 +227,9 @@ Machine learning powered phishing URL detection platform with FastAPI backend, R
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Action first, then use the generated SVG below.
-
 <div align="center">
+
+> **Enable the GitHub Action once to generate the contribution snake.**
 
 <img src="https://raw.githubusercontent.com/SarthakPatkar2006/SarthakPatkar2006/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -234,33 +241,38 @@ Machine learning powered phishing URL detection platform with FastAPI backend, R
 
 <div align="center">
 
-| Platform | Profile |
-|----------|---------|
-| 🟡 LeetCode | https://leetcode.com/u/fXvj5Zv0Il/ |
-| 🔵 Codeforces | https://codeforces.com/profile/sarthakpatkar047 |
+| Platform | Visit |
+|:---------:|:-----:|
+| 🟡 **LeetCode** | <a href="https://leetcode.com/u/fXvj5Zv0Il/">Profile ↗</a> |
+| 🔵 **Codeforces** | <a href="https://codeforces.com/profile/sarthakpatkar047">Profile ↗</a> |
+| ⚫ **GitHub** | <a href="https://github.com/SarthakPatkar2006">Profile ↗</a> |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/SarthakPatkar2006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:sarthakpatkar047@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sarthak-patkar-2b1150378/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:sarthakpatkar047@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/SarthakPatkar2006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/fXvj5Zv0Il/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/sarthakpatkar047">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
 </a>
 
 </div>
@@ -269,9 +281,8 @@ Machine learning powered phishing URL detection platform with FastAPI backend, R
 
 <div align="center">
 
-### 💡 *"Building software that combines engineering with intelligence."*
+### ⚡ "Turning ideas into scalable software."
 
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 
 </div>
-````
