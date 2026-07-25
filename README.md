@@ -62,7 +62,7 @@ I enjoy designing scalable backend systems, building end-to-end web applications
 |-----------|--------------|
 | 💻 **Programming Languages** | C++, Python, C, JavaScript, TypeScript, SQL |
 | 🎨 **Frontend** | React, HTML5, CSS3 |
-| ⚙️ **Backend** | Node.js, Express.js, FastAPI, REST APIs, Microservices |
+| ⚙️ **Backend** | Node.js, Express.js, REST APIs  |
 | 🗄️ **Databases** | MongoDB, MySQL |
 | 🤖 **Machine Learning & AI** | TensorFlow, PyTorch, Scikit-learn, XGBoost, NumPy, Pandas, OpenCV |
 | 🧠 **Core Computer Science** | Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks |
@@ -245,7 +245,7 @@ Backend Engineering
 |:---------:|:-----:|
 | 🟡 **LeetCode** | <a href="https://leetcode.com/u/fXvj5Zv0Il/">Profile ↗</a> |
 | 🔵 **Codeforces** | <a href="https://codeforces.com/profile/sarthakpatkar047">Profile ↗</a> |
-| ⚫ **GitHub** | <a href="https://github.com/SarthakPatkar2006">Profile ↗</a> |
+
 
 </div>
 
