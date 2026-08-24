@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,100:2C5364&section=header&text=Sarthak%20Patkar&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%26%20Artificial%20Intelligence%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,100:2C5364&text=Sarthak%20Patkar&fontSize=55&fontColor=ffffff&fontAlignY=45"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Developer;Competitive+Programmer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
+### Computer Science & Artificial Intelligence Student • Full Stack Developer • AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Developer;Competitive+Programmer;Building+AI-Powered+Applications;Always+Learning+New+Technologies"/>
 
 <br>
 
@@ -27,7 +29,7 @@
 </a>
 
 <a href="https://codeforces.com/profile/sarthakpatkar047">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <br><br>
@@ -44,7 +46,7 @@ I'm **Sarthak Patkar**, a Third-Year **Computer Science & Artificial Intelligenc
 
 I enjoy designing scalable backend systems, building end-to-end web applications, and applying Artificial Intelligence to solve practical problems. I continuously improve my software engineering skills through hands-on projects and competitive programming.
 
-### 🔭 Currently
+### Currently
 
 * 🚀 Building **TripMitra**, an AI-powered travel planning platform
 * 🌱 Learning **TensorFlow**, **PyTorch**, **Deep Learning**, and **Transformer Architectures**
@@ -74,11 +76,13 @@ I enjoy designing scalable backend systems, building end-to-end web applications
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌍 TripMitra
 
-AI-powered travel planning platform that generates personalized itineraries using intelligent route optimization, budget-aware planning, and collaborative trip management.
+**AI-Powered Travel Planning Platform**
+
+Generates personalized travel itineraries using intelligent route optimization, budget-aware planning, and collaborative trip management.
 
 ### Tech Stack
 
@@ -87,11 +91,13 @@ AI-powered travel planning platform that generates personalized itineraries usin
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📈 ForecastIQ
 
-Multi-product demand forecasting and inventory optimization engine using feature engineering and machine learning pipelines.
+**Demand Forecasting & Inventory Optimization**
+
+A multi-product demand forecasting and inventory optimization engine using feature engineering and machine learning pipelines.
 
 ### Tech Stack
 
@@ -104,11 +110,13 @@ Multi-product demand forecasting and inventory optimization engine using feature
 
 <tr>
 
-<td colspan="2">
+<td colspan="2" valign="top">
 
 ## 🛡️ Phishing Detection Platform
 
-Machine learning-based phishing URL detection platform featuring a FastAPI backend, React dashboard, and prediction APIs.
+**Machine Learning-Based URL Classification**
+
+A phishing URL detection platform featuring a FastAPI backend, React dashboard, and prediction APIs for real-time classification.
 
 ### Tech Stack
 
@@ -128,7 +136,7 @@ Machine learning-based phishing URL detection platform featuring a FastAPI backe
 
 <tr>
 
-<td>
+<td width="50%">
 
 ### 🎓 Education
 
@@ -137,11 +145,11 @@ Vishwakarma Institute of Technology, Pune
 
 </td>
 
-<td>
+<td width="50%">
 
 ### ⭐ Competitive Programming
 
-**LeetCode Rating:** **1750+**
+**LeetCode Rating: 1750+**
 
 </td>
 
@@ -149,7 +157,7 @@ Vishwakarma Institute of Technology, Pune
 
 <tr>
 
-<td>
+<td width="50%">
 
 ### 🏅 Innovation
 
@@ -158,7 +166,7 @@ IoT & Automation
 
 </td>
 
-<td>
+<td width="50%">
 
 ### 🎯 Interests
 
@@ -178,18 +186,18 @@ Backend Engineering
 # 🎯 Current Focus
 
 ```text
-🚀 Building
+Building
 ├── TripMitra
 └── AI-powered Full Stack Applications
 
-📚 Learning
+Learning
 ├── TensorFlow
 ├── PyTorch
 ├── Deep Learning
 ├── Transformer Architectures
 └── Large Language Models
 
-⚙️ Exploring
+Exploring
 ├── Backend Architecture
 ├── Distributed Systems
 ├── Microservices
@@ -202,9 +210,7 @@ Backend Engineering
 
 <div align="center">
 
-> **Enable the GitHub Action once to generate the contribution snake.**
-
-<img src="https://raw.githubusercontent.com/SarthakPatkar2006/SarthakPatkar2006/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/SarthakPatkar2006/SarthakPatkar2006/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
@@ -214,10 +220,10 @@ Backend Engineering
 
 <div align="center">
 
-|      Platform     |                                  Visit                                  |
-| :---------------: | :---------------------------------------------------------------------: |
-|  🟡 **LeetCode**  |        <a href="https://leetcode.com/u/fXvj5Zv0Il/">Profile ↗</a>       |
-| 🔵 **Codeforces** | <a href="https://codeforces.com/profile/sarthakpatkar047">Profile ↗</a> |
+|      Platform     |                                    Profile                                    |
+| :---------------: | :---------------------------------------------------------------------------: |
+|  🟡 **LeetCode**  |        <a href="https://leetcode.com/u/fXvj5Zv0Il/">Visit Profile ↗</a>       |
+| 🔵 **Codeforces** | <a href="https://codeforces.com/profile/sarthakpatkar047">Visit Profile ↗</a> |
 
 </div>
 
@@ -240,11 +246,11 @@ Backend Engineering
 </a>
 
 <a href="https://leetcode.com/u/fXvj5Zv0Il/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://codeforces.com/profile/sarthakpatkar047">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
@@ -253,8 +259,10 @@ Backend Engineering
 
 <div align="center">
 
-### ⚡ Turning ideas into scalable software.
+### Turning ideas into scalable software.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,100:2C5364"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0F2027"/>
 
 </div>
