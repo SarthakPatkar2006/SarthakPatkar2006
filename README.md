@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=230&section=header&text=Sarthak%20Patkar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Artificial%20Intelligence%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=240&section=header&text=Sarthak%20Patkar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Artificial%20Intelligence%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=17"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineer;Machine+Learning+Enthusiast;Competitive+Programmer;Building+AI-Powered+Applications;Always+Learning+and+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineer;Machine+Learning+Enthusiast;Competitive+Programmer;Building+AI-Powered+Applications"/>
 
 <br><br>
 
@@ -28,29 +26,25 @@
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=SarthakPatkar2006&label=Profile%20Views&color=238636&style=flat"/>
-
 </div>
 
 ---
 
-## About Me
+# About Me
 
 I'm **Sarthak Patkar**, a Third-Year **Computer Science & Artificial Intelligence** student at **Vishwakarma Institute of Technology, Pune**.
 
-I enjoy building scalable backend systems, end-to-end web applications, and practical AI-powered solutions. My focus is on strengthening my software engineering fundamentals while building projects that combine **Full Stack Development, Backend Engineering, and Artificial Intelligence**.
+I build scalable web applications and practical AI-powered systems, with a strong interest in **Backend Engineering, Full Stack Development, Machine Learning, and System Design**.
 
-* Building **TripMitra**, an AI-powered travel planning platform
+* Currently building **TripMitra**, an AI-powered travel planning platform
 * Exploring **Machine Learning, Deep Learning, Transformers, and LLMs**
-* Interested in **Backend Architecture, Distributed Systems, Microservices, and System Design**
+* Building end-to-end applications using modern backend and frontend technologies
 * Practicing **Data Structures & Algorithms** and Competitive Programming
-* Focused on building **production-ready AI-powered applications**
+* Interested in designing scalable and production-ready software systems
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -60,19 +54,21 @@ I enjoy building scalable backend systems, end-to-end web applications, and prac
 
 <br>
 
-| Domain                    | Technologies                                                      |
-| ------------------------- | ----------------------------------------------------------------- |
-| **Languages**             | C++, Python, C, JavaScript, TypeScript, SQL                       |
-| **Frontend**              | React, HTML5, CSS3                                                |
-| **Backend**               | Node.js, Express.js, FastAPI, REST APIs                           |
-| **Databases**             | MongoDB, MySQL                                                    |
-| **AI & Machine Learning** | TensorFlow, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy, OpenCV |
-| **Core CS**               | DSA, OOP, DBMS, OS, Computer Networks                             |
-| **Tools**                 | Git, GitHub, VS Code, Postman                                     |
+<div align="center">
+
+| Languages                                        | Frontend           | Backend                     | Databases       |
+| ------------------------------------------------ | ------------------ | --------------------------- | --------------- |
+| C++ · Python · C · JavaScript · TypeScript · SQL | React · HTML · CSS | Node.js · Express · FastAPI | MongoDB · MySQL |
+
+| AI & Machine Learning                                                   | Core CS                    | Developer Tools                  |
+| ----------------------------------------------------------------------- | -------------------------- | -------------------------------- |
+| TensorFlow · PyTorch · Scikit-learn · XGBoost · Pandas · NumPy · OpenCV | DSA · OOP · DBMS · OS · CN | Git · GitHub · VS Code · Postman |
+
+</div>
 
 ---
 
-## Featured Projects
+# Featured Projects
 
 <table>
 
@@ -80,9 +76,13 @@ I enjoy building scalable backend systems, end-to-end web applications, and prac
 
 <td width="50%" valign="top">
 
-### TripMitra
+## TripMitra
 
-AI-powered travel planning platform designed to generate personalized itineraries with intelligent route planning, budget-aware recommendations, and collaborative trip management.
+**AI-Powered Travel Planning Platform**
+
+Generate personalized travel itineraries with intelligent route planning, budget-aware recommendations, and collaborative trip management.
+
+<br>
 
 **Tech Stack**
 
@@ -93,9 +93,13 @@ AI-powered travel planning platform designed to generate personalized itinerarie
 
 <td width="50%" valign="top">
 
-### ForecastIQ
+## ForecastIQ
 
-Multi-product demand forecasting and inventory optimization system using feature engineering and machine learning pipelines to generate data-driven predictions.
+**Demand Forecasting & Inventory Optimization**
+
+A machine learning system for multi-product demand forecasting using feature engineering and predictive modeling.
+
+<br>
 
 **Tech Stack**
 
@@ -110,9 +114,13 @@ Multi-product demand forecasting and inventory optimization system using feature
 
 <td colspan="2" valign="top">
 
-### Phishing Detection Platform
+## Phishing Detection Platform
 
-Machine learning-based phishing URL detection system featuring a FastAPI prediction backend, React dashboard, and REST APIs for real-time classification.
+**Machine Learning-Based URL Classification System**
+
+A full-stack phishing detection platform with a FastAPI prediction backend, React dashboard, and REST APIs for real-time classification.
+
+<br>
 
 **Tech Stack**
 
@@ -126,7 +134,7 @@ Machine learning-based phishing URL detection system featuring a FastAPI predict
 
 ---
 
-## Highlights
+# Achievements
 
 <div align="center">
 
@@ -134,51 +142,33 @@ Machine learning-based phishing URL detection system featuring a FastAPI predict
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### Education
+## 1750+
 
-**B.Tech**
+**LeetCode Rating**
 
-Computer Science & AI
-
-VIT Pune
+Competitive Programming & Problem Solving
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### LeetCode
+## 2
 
-**1750+**
-
-Rating
-
-Competitive Programming
-
-</td>
-
-<td align="center" width="25%">
-
-### Innovation
-
-**2 Patents**
-
-Filed
+**Patents Filed**
 
 IoT & Automation
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### Focus
+## B.Tech
 
-Full Stack
+**Computer Science & AI**
 
-AI & ML
-
-Backend Engineering
+Vishwakarma Institute of Technology, Pune
 
 </td>
 
@@ -190,35 +180,13 @@ Backend Engineering
 
 ---
 
-## Current Focus
-
-```text
-Building
-├── TripMitra
-└── AI-Powered Full Stack Applications
-
-Learning
-├── TensorFlow & PyTorch
-├── Deep Learning
-├── Transformer Architectures
-└── Large Language Models
-
-Exploring
-├── Backend Architecture
-├── Distributed Systems
-├── Microservices
-└── System Design
-```
-
----
-
-## GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SarthakPatkar2006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SarthakPatkar2006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="175em" src="https://streak-stats.demolab.com?user=SarthakPatkar2006&theme=github-dark&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=SarthakPatkar2006&theme=github-dark&hide_border=true"/>
 
 <br><br>
 
@@ -228,7 +196,7 @@ Exploring
 
 ---
 
-## Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -238,28 +206,12 @@ Exploring
 
 ---
 
-## Coding Profiles
-
 <div align="center">
 
-<a href="https://leetcode.com/u/fXvj5Zv0Il/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/sarthakpatkar047">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Turning ideas into scalable software.
+### Building scalable software. Exploring intelligent systems.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=130&section=footer"/>
 
 </div>
