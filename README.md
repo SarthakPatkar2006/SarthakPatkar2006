@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/fXvj5Zv0Il/">
+<a href="https://leetcode.com/u/SarthakPatkar/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -149,7 +149,7 @@ Vishwakarma Institute of Technology, Pune
 
 ### ⭐ Competitive Programming
 
-**LeetCode Rating: 1750+**
+**LeetCode Rating: 1800+**
 
 </td>
 
@@ -222,7 +222,7 @@ Exploring
 
 |      Platform     |                                    Profile                                    |
 | :---------------: | :---------------------------------------------------------------------------: |
-|  🟡 **LeetCode**  |        <a href="https://leetcode.com/u/fXvj5Zv0Il/">Visit Profile ↗</a>       |
+|  🟡 **LeetCode**  |      <a href="https://leetcode.com/u/SarthakPatkar/">Visit Profile ↗</a>      |
 | 🔵 **Codeforces** | <a href="https://codeforces.com/profile/sarthakpatkar047">Visit Profile ↗</a> |
 
 </div>
@@ -245,7 +245,7 @@ Exploring
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/fXvj5Zv0Il/">
+<a href="https://leetcode.com/u/SarthakPatkar/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
