@@ -1,8 +1,6 @@
- <div align="center">
+<div align="center">
 
-# Hi 👋, I'm Sarthak Patkar
-
-### Computer Science & Artificial Intelligence Student • Full Stack Developer • AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,100:2C5364&section=header&text=Sarthak%20Patkar&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%26%20Artificial%20Intelligence%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=17"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+Developer;Competitive+Programmer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
 
@@ -13,23 +11,23 @@
 <br>
 
 <a href="https://github.com/SarthakPatkar2006">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sarthak-patkar-2b1150378/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sarthakpatkar047@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/fXvj5Zv0Il/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://codeforces.com/profile/sarthakpatkar047">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 <br><br>
@@ -48,25 +46,25 @@ I enjoy designing scalable backend systems, building end-to-end web applications
 
 ### 🔭 Currently
 
-- 🚀 Building **TripMitra**, an AI-powered travel planning platform
-- 🌱 Learning **TensorFlow**, **PyTorch**, **Deep Learning**, and **Transformer Architectures**
-- 🤖 Working with **Scikit-learn**, **XGBoost**, **NumPy**, **Pandas**, **OpenCV**, and **FastAPI**
-- 💡 Interested in **Full Stack Development**, **Backend Engineering**, **Machine Learning**, and **System Design**
-- 🎯 Working towards building production-ready AI-powered software
+* 🚀 Building **TripMitra**, an AI-powered travel planning platform
+* 🌱 Learning **TensorFlow**, **PyTorch**, **Deep Learning**, and **Transformer Architectures**
+* 🤖 Working with **Scikit-learn**, **XGBoost**, **NumPy**, **Pandas**, **OpenCV**, and **FastAPI**
+* 💡 Interested in **Full Stack Development**, **Backend Engineering**, **Machine Learning**, and **System Design**
+* 🎯 Working towards building production-ready AI-powered software
 
 ---
 
 # 🛠 Tech Stack
 
-| Category | Technologies |
-|-----------|--------------|
-| 💻 **Programming Languages** | C++, Python, C, JavaScript, TypeScript, SQL |
-| 🎨 **Frontend** | React, HTML5, CSS3 |
-| ⚙️ **Backend** | Node.js, Express.js, REST APIs  |
-| 🗄️ **Databases** | MongoDB, MySQL |
-| 🤖 **Machine Learning & AI** | TensorFlow, PyTorch, Scikit-learn, XGBoost, NumPy, Pandas, OpenCV |
+| Category                     | Technologies                                                                                                                 |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 💻 **Programming Languages** | C++, Python, C, JavaScript, TypeScript, SQL                                                                                  |
+| 🎨 **Frontend**              | React, HTML5, CSS3                                                                                                           |
+| ⚙️ **Backend**               | Node.js, Express.js, REST APIs                                                                                               |
+| 🗄️ **Databases**            | MongoDB, MySQL                                                                                                               |
+| 🤖 **Machine Learning & AI** | TensorFlow, PyTorch, Scikit-learn, XGBoost, NumPy, Pandas, OpenCV                                                            |
 | 🧠 **Core Computer Science** | Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks |
-| 🛠 **Developer Tools** | Git, GitHub, VS Code, Postman |
+| 🛠 **Developer Tools**       | Git, GitHub, VS Code, Postman                                                                                                |
 
 ---
 
@@ -84,12 +82,8 @@ AI-powered travel planning platform that generates personalized itineraries usin
 
 ### Tech Stack
 
-`React`
-`Node.js`
-`Express.js`
-`FastAPI`
-`MongoDB`
-`Gemini API`
+`React` · `Node.js` · `Express.js`
+`FastAPI` · `MongoDB` · `Gemini API`
 
 </td>
 
@@ -101,11 +95,8 @@ Multi-product demand forecasting and inventory optimization engine using feature
 
 ### Tech Stack
 
-`Python`
-`Scikit-learn`
-`XGBoost`
-`NumPy`
-`Pandas`
+`Python` · `Scikit-learn` · `XGBoost`
+`NumPy` · `Pandas`
 
 </td>
 
@@ -121,10 +112,7 @@ Machine learning-based phishing URL detection platform featuring a FastAPI backe
 
 ### Tech Stack
 
-`Python`
-`FastAPI`
-`React`
-`Scikit-learn`
+`Python` · `FastAPI` · `React` · `Scikit-learn`
 
 </td>
 
@@ -133,14 +121,18 @@ Machine learning-based phishing URL detection platform featuring a FastAPI backe
 </table>
 
 ---
+
 # 🏆 Highlights
 
 <table>
+
 <tr>
+
 <td>
 
 ### 🎓 Education
-**B.Tech — Computer Science & Artificial Intelligence**  
+
+**B.Tech — Computer Science & Artificial Intelligence**
 Vishwakarma Institute of Technology, Pune
 
 </td>
@@ -148,16 +140,20 @@ Vishwakarma Institute of Technology, Pune
 <td>
 
 ### ⭐ Competitive Programming
+
 **LeetCode Rating:** **1750+**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
 ### 🏅 Innovation
-**2 Patents Filed**  
+
+**2 Patents Filed**
 IoT & Automation
 
 </td>
@@ -165,13 +161,16 @@ IoT & Automation
 <td>
 
 ### 🎯 Interests
-Full Stack Development  
-Machine Learning  
-Deep Learning  
+
+Full Stack Development
+Machine Learning
+Deep Learning
 Backend Engineering
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -199,32 +198,6 @@ Backend Engineering
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SarthakPatkar2006&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=SarthakPatkar2006&theme=github-dark&hide_border=true"/>
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarthakPatkar2006&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarthakPatkar2006&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -241,11 +214,10 @@ Backend Engineering
 
 <div align="center">
 
-| Platform | Visit |
-|:---------:|:-----:|
-| 🟡 **LeetCode** | <a href="https://leetcode.com/u/fXvj5Zv0Il/">Profile ↗</a> |
+|      Platform     |                                  Visit                                  |
+| :---------------: | :---------------------------------------------------------------------: |
+|  🟡 **LeetCode**  |        <a href="https://leetcode.com/u/fXvj5Zv0Il/">Profile ↗</a>       |
 | 🔵 **Codeforces** | <a href="https://codeforces.com/profile/sarthakpatkar047">Profile ↗</a> |
-
 
 </div>
 
@@ -272,7 +244,7 @@ Backend Engineering
 </a>
 
 <a href="https://codeforces.com/profile/sarthakpatkar047">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </div>
@@ -281,8 +253,8 @@ Backend Engineering
 
 <div align="center">
 
-### ⚡ "Turning ideas into scalable software."
+### ⚡ Turning ideas into scalable software.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,100:2C5364"/>
 
 </div>
