@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=240&section=header&text=Sarthak%20Patkar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Artificial%20Intelligence%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,100:238636&text=Sarthak%20Patkar&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20%26%20Artificial%20Intelligence%20Student&descAlignY=60&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Engineer;Machine+Learning+Enthusiast;Competitive+Programmer;Building+AI-Powered+Applications"/>
 
@@ -30,45 +30,43 @@
 
 ---
 
-# About Me
+## About Me
 
 I'm **Sarthak Patkar**, a Third-Year **Computer Science & Artificial Intelligence** student at **Vishwakarma Institute of Technology, Pune**.
 
-I build scalable web applications and practical AI-powered systems, with a strong interest in **Backend Engineering, Full Stack Development, Machine Learning, and System Design**.
+I enjoy building scalable web applications, backend systems, and practical AI-powered solutions. My primary interests lie at the intersection of **Software Engineering, Backend Development, Full Stack Development, and Artificial Intelligence**.
 
-* Currently building **TripMitra**, an AI-powered travel planning platform
+* Building **TripMitra**, an AI-powered travel planning platform
 * Exploring **Machine Learning, Deep Learning, Transformers, and LLMs**
-* Building end-to-end applications using modern backend and frontend technologies
+* Developing end-to-end applications using modern web technologies
 * Practicing **Data Structures & Algorithms** and Competitive Programming
-* Interested in designing scalable and production-ready software systems
+* Interested in **Backend Architecture, Distributed Systems, Microservices, and System Design**
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts,html,css,react,nodejs,express,fastapi,mongodb,mysql,tensorflow,pytorch,sklearn,git,github,vscode,postman&perline=10"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js,ts,html,css,react,nodejs,express,fastapi,mongodb,mysql,tensorflow,pytorch,git,github,vscode,postman&perline=10"/>
 
 </div>
 
 <br>
 
-<div align="center">
-
-| Languages                                        | Frontend           | Backend                     | Databases       |
-| ------------------------------------------------ | ------------------ | --------------------------- | --------------- |
-| C++ · Python · C · JavaScript · TypeScript · SQL | React · HTML · CSS | Node.js · Express · FastAPI | MongoDB · MySQL |
-
-| AI & Machine Learning                                                   | Core CS                    | Developer Tools                  |
-| ----------------------------------------------------------------------- | -------------------------- | -------------------------------- |
-| TensorFlow · PyTorch · Scikit-learn · XGBoost · Pandas · NumPy · OpenCV | DSA · OOP · DBMS · OS · CN | Git · GitHub · VS Code · Postman |
-
-</div>
+| Category                  | Technologies                                                                  |
+| ------------------------- | ----------------------------------------------------------------------------- |
+| **Languages**             | C++, Python, C, JavaScript, TypeScript, SQL                                   |
+| **Frontend**              | React, HTML5, CSS3                                                            |
+| **Backend**               | Node.js, Express.js, FastAPI, REST APIs                                       |
+| **Databases**             | MongoDB, MySQL                                                                |
+| **AI & Machine Learning** | TensorFlow, PyTorch, Scikit-learn, XGBoost, Pandas, NumPy, OpenCV             |
+| **Core Computer Science** | Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks |
+| **Developer Tools**       | Git, GitHub, VS Code, Postman                                                 |
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 <table>
 
@@ -76,24 +74,25 @@ I build scalable web applications and practical AI-powered systems, with a stron
 
 <td width="50%" valign="top">
 
-## TripMitra
+### TripMitra
 
 **AI-Powered Travel Planning Platform**
 
-Generate personalized travel itineraries with intelligent route planning, budget-aware recommendations, and collaborative trip management.
+A platform for generating personalized travel itineraries with intelligent route planning, budget-aware recommendations, and collaborative trip management.
 
 <br>
 
 **Tech Stack**
 
-`React` `Node.js` `Express.js`
-`FastAPI` `MongoDB` `Gemini API`
+`React` · `Node.js` · `Express.js`
+
+`FastAPI` · `MongoDB` · `Gemini API`
 
 </td>
 
 <td width="50%" valign="top">
 
-## ForecastIQ
+### ForecastIQ
 
 **Demand Forecasting & Inventory Optimization**
 
@@ -103,8 +102,9 @@ A machine learning system for multi-product demand forecasting using feature eng
 
 **Tech Stack**
 
-`Python` `Scikit-learn` `XGBoost`
-`Pandas` `NumPy`
+`Python` · `Scikit-learn` · `XGBoost`
+
+`Pandas` · `NumPy`
 
 </td>
 
@@ -114,17 +114,17 @@ A machine learning system for multi-product demand forecasting using feature eng
 
 <td colspan="2" valign="top">
 
-## Phishing Detection Platform
+### Phishing Detection Platform
 
 **Machine Learning-Based URL Classification System**
 
-A full-stack phishing detection platform with a FastAPI prediction backend, React dashboard, and REST APIs for real-time classification.
+A full-stack phishing detection platform featuring a FastAPI prediction backend, React dashboard, and REST APIs for real-time classification.
 
 <br>
 
 **Tech Stack**
 
-`Python` `FastAPI` `React` `Scikit-learn`
+`Python` · `FastAPI` · `React` · `Scikit-learn`
 
 </td>
 
@@ -134,7 +134,7 @@ A full-stack phishing detection platform with a FastAPI prediction backend, Reac
 
 ---
 
-# Achievements
+## Achievements
 
 <div align="center">
 
@@ -144,27 +144,27 @@ A full-stack phishing detection platform with a FastAPI prediction backend, Reac
 
 <td align="center" width="33%">
 
-## 1750+
+### 1750+
 
 **LeetCode Rating**
 
-Competitive Programming & Problem Solving
+Problem Solving & Competitive Programming
 
 </td>
 
 <td align="center" width="33%">
 
-## 2
+### 2 Patents
 
-**Patents Filed**
+**Filed**
 
-IoT & Automation
+Innovation in IoT & Automation
 
 </td>
 
 <td align="center" width="33%">
 
-## B.Tech
+### B.Tech
 
 **Computer Science & AI**
 
@@ -180,7 +180,7 @@ Vishwakarma Institute of Technology, Pune
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -196,7 +196,7 @@ Vishwakarma Institute of Technology, Pune
 
 ---
 
-# Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -212,6 +212,6 @@ Vishwakarma Institute of Technology, Pune
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:238636"/>
 
 </div>
